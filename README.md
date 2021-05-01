@@ -8,7 +8,7 @@
 <!-- ![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=divyanshu1610&show_icons=true&include_all_commits=true&count_private=true&theme=radical) -->
 
 
-👨🏼‍💻 Building [wiki-quotes][wiki-quotes]   
+👨🏼‍💻 Building [chatter][chatter]   
 
 
 
@@ -23,7 +23,7 @@
 
 [banner]: https://raw.githubusercontent.com/divyanshu1610/divyanshu1610/main/banner.jpg
 <!-- [banner]: ./banner.jpg -->
-[wiki-quotes]: https://github.com/divyanshu1610/wiki-quotes
+[chatter]: https://github.com/divyanshu1610/chatter
 [portfolio]: https://divyanshu1610.github.io/my-devportfolio/
 [twitter]: https://twitter.com/div1610
 [linkedin]: https://www.linkedin.com/in/divyanshu-maurya-135a1714a/
