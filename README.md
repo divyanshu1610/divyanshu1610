@@ -18,7 +18,7 @@
 🐦 [Twitter][twitter] **|** 
 👔 [LinkedIn][linkedin] **|**
 📰 [Medium][medium] **|**
-📦 [npm][npm] **|**
+📦 [npm][npm]
 
 
 [banner]: https://raw.githubusercontent.com/divyanshu1610/divyanshu1610/main/banner.jpg
