@@ -8,8 +8,6 @@
 <!-- ![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=divyanshu1610&show_icons=true&include_all_commits=true&count_private=true&theme=radical) -->
 
 
-👨🏼‍💻 Learning **Docker and Kubernetes** 
-
 
 ![](https://komarev.com/ghpvc/?username=divyanshu1610&style=flat-square&color=green)
 
